@@ -46,7 +46,10 @@ More info: https://wiki.seeedstudio.com/XIAO-RP2040/
 
 
 After XIAO is available on PC. 
+
+
 Copy "klipper.uf2" to XIAO. 
+
 Once complete, disconnect from PC. 
 
 ___________________________________
@@ -68,9 +71,17 @@ WIRING ADXL :
 
 Images are of ADXL wired for VCC , NOT 3v3. Wire accordingly. 
 
+Use this resource if unsure:
+
+https://klipper.discourse.group/t/raspberry-pi-pico-adxl345-portable-resonance-measurement/1757
+
+
 
 ![image](https://user-images.githubusercontent.com/94410881/161407548-3307d8fe-df5a-47bb-a56b-0e31875a1555.png)
 ![image](https://user-images.githubusercontent.com/94410881/161407540-dafd24a6-14c4-4b85-a269-b0317c822869.png)
+![image](https://user-images.githubusercontent.com/94410881/161407767-9217da2d-0f61-47c0-9d34-5df5b6f7805e.png)
+![image](https://user-images.githubusercontent.com/94410881/161407778-94ee89a1-89e9-4a65-8b89-63da0b4f1bb8.png)
+
 
 
 KLIPPER CONFIG:
