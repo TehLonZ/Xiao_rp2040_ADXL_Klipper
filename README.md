@@ -87,7 +87,9 @@ https://klipper.discourse.group/t/raspberry-pi-pico-adxl345-portable-resonance-m
 KLIPPER CONFIG:
 
 Find Xiao serial by using : ls /dev/serial/by-id/*  via SSH)
+
 Enter this address in the "mcu" section below within your printer config. 
+
 Save and restart after editing printer.cfg file. 
 
 ![image](https://user-images.githubusercontent.com/94410881/161407123-e0ffffb4-7f40-4a2e-834c-f13651e20d52.png)
@@ -105,6 +107,11 @@ Klipper should report:
 ![image](https://user-images.githubusercontent.com/94410881/161407591-f7b02d88-e3da-45aa-ae50-43a772b115d1.png)
 
 Use MEASURE_AXES_NOISE to measure noise of ADXL. 
+
+![image](https://user-images.githubusercontent.com/94410881/161407797-b30ecfa5-af03-43d7-9d52-a282aafe655d.png)
+
+![image](https://user-images.githubusercontent.com/94410881/161407793-070e4950-c8fa-436f-8a6b-961617915dbc.png)
+
 
 
 
